@@ -1,12 +1,12 @@
 # 404 Error Logger
 
-Contributors: plainsurfsolutions, suhassurse 
-Tags: 404 error logger, 404 error logs, 404 logs, 404, 404 errors
-Requires at least: 4.7 
-Tested up to: 6.4.1 
-Stable Tag: 1.0 
-Requires PHP: 7.0 
-License: GPLv2 or later License URI: http://www.gnu.org/licenses/gpl-2.0.html
+- Contributors: plainsurfsolutions, suhassurse 
+- Tags: 404 error logger, 404 error logs, 404 logs, 404, 404 errors
+- Requires at least: 4.7 
+- Tested up to: 6.4.1 
+- Stable Tag: 1.0 
+- Requires PHP: 7.0 
+- License: GPLv2 or later License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 ## Description
